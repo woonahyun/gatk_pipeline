@@ -14,3 +14,18 @@ cd swu02
 ls
 mkdir
 m
+ls
+cd ..
+ls
+cd
+ls
+vi all.sh
+top
+ll -th
+top
+ll -hr
+ll -ht
+top
+ll
+top
+ll
